@@ -1,4 +1,3 @@
-# Fabric_DP700_lab02
 # Analyze Data with Apache Spark in Microsoft Fabric
 
 ## 📌 Project Summary
